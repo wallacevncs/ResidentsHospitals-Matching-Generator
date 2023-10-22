@@ -19,4 +19,4 @@ The "Preference_Lists" project processes files containing residents/candidates f
 ## Usage
 This tool can be useful for researchers, educators, and data enthusiasts interested in simulating and studying the allocation of residents to hospitals, inspired by the NRMP-style matching system.
 ## License
-This project is under the license [MIT](./LICENSE).
+This project is under the license [MIT](./LICENSE.txt).
