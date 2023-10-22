@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Preference_Lists": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "RESIDENTS_FILEPATH": "",
+        "HOSPITALS_PREFERENCES_FILEPATH": "",
+        "RESIDENTS_PREFERENCES_FILEPATH": "",
+        "TOTAL_POSITIONS": ""
+      }
+    }
+  }
+}

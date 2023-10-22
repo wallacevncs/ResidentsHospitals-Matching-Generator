@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ResidentesDataset": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "INPUT_FILEPATH": "",
+        "OUTPUT_FILEPATH": "",
+        "TOTAL_APPLICANTS": ""
+      }
+    }
+  }
+}

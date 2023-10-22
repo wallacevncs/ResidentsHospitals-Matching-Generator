@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Preference_Lists", "Preference_Lists\Preference_Lists.csproj", "{FD8B6780-95DD-4D8B-8018-F2EC9EB5228D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResidentesDataset", "ResidentesDataset\ResidentesDataset.csproj", "{6FBF5817-A1AB-473B-B0F2-77BA448E5A57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD8B6780-95DD-4D8B-8018-F2EC9EB5228D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD8B6780-95DD-4D8B-8018-F2EC9EB5228D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD8B6780-95DD-4D8B-8018-F2EC9EB5228D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD8B6780-95DD-4D8B-8018-F2EC9EB5228D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FBF5817-A1AB-473B-B0F2-77BA448E5A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FBF5817-A1AB-473B-B0F2-77BA448E5A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FBF5817-A1AB-473B-B0F2-77BA448E5A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FBF5817-A1AB-473B-B0F2-77BA448E5A57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5C6592C-88D3-43C3-B400-9A54C45F21A5}
+	EndGlobalSection
+EndGlobal
