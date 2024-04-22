@@ -88,7 +88,8 @@ namespace Preference_Lists
 
         private static List<string> ChooseResidents(int capacity, ref Dictionary<string, int> residents, Random random, ref int weight, string program, ref Dictionary<string, Resident> residentsPreference)
         {
-            int max     = capacity + (capacity / 2);
+            //int max     = capacity + (capacity / 2);
+            int max     = 2 * capacity;
             int size    = random.Next(capacity, max);
             bool retry  = false;
 

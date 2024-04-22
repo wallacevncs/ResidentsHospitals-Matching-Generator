@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Preference_Lists", "Preference_Lists\Preference_Lists.csproj", "{FD8B6780-95DD-4D8B-8018-F2EC9EB5228D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PreferenceLists", "PreferenceLists\PreferenceLists.csproj", "{FD8B6780-95DD-4D8B-8018-F2EC9EB5228D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResidentesDataset", "ResidentesDataset\ResidentesDataset.csproj", "{6FBF5817-A1AB-473B-B0F2-77BA448E5A57}"
 EndProject
