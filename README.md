@@ -13,7 +13,7 @@ The "ResidentDataset" project takes as input a CSV file containing a list of nam
 
 **PreferenceLists**
 
-The "Preference_Lists" project processes files containing residents/candidates for residency programs. It also creates hospitals with their respective capacities, constrained by the total positions available. Using this information, random preference lists in JSON format are generated for both residents and hospitals.
+The "PreferenceLists" project processes files containing residents/candidates for residency programs. It also creates hospitals with their respective capacities, constrained by the total positions available. Using this information, random preference lists in JSON format are generated for both residents and hospitals.
 
 
 ## Usage
